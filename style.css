@@ -1,0 +1,64 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    background-color: #f5a623;
+    padding: 2rem;
+    color: white;
+}
+
+header img {
+    width: 300px;
+    margin-top: 1rem;
+}
+
+section {
+    padding: 2rem;
+    background-color: white;
+    margin: 1rem 0;
+}
+
+h2 {
+    color: #f5a623;
+}
+
+.benefit {
+    margin: 1rem 0;
+}
+
+.benefit h3 {
+    color: #333;
+}
+
+#boutique .btn {
+    display: inline-block;
+    background-color: #f5a623;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin: 0 10px;
+}
