@@ -1,4 +1,3 @@
-// Exemple d'interaction : message lorsqu'on clique sur le bouton "Commander"
 document.addEventListener('DOMContentLoaded', function() {
     const buyButton = document.querySelector('.btn');
     buyButton.addEventListener('click', function() {
